@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I'm Yatish, a CSE student who loves building full-stack web apps that are clean, functional, and actually fun to use. I’ve worked with everything from frontend design to backend APIs, and I enjoy creating smooth user experiences and tackling real-world problems through code.
+Hey! I'm Yatish, a CSE student who loves to code and learn new things.
 
 - 🧠 1× Hackathon Finalist - always up for a good build challenge  
 <!-- - 🎨 I design in Figma and edit videos on the side   -->
