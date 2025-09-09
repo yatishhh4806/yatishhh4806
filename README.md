@@ -18,7 +18,7 @@ Hey! I'm Yatish, a CSE student who loves to code and learn new things.
 ![CSS3](https://img.shields.io/badge/CSS3-343A40?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-343A40?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-343A40?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-343A40?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🤖 AI / ML 
 ![NumPy](https://img.shields.io/badge/NumPy-343A40?style=for-the-badge&logo=numpy&logoColor=white)
