@@ -29,7 +29,7 @@ Hey! I'm Yatish, a CSE student who loves to code and learn new things.
 
 
 ### 📦 Tools & IDEs
-![Postman](https://img.shields.io/badge/Postman-343A40?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Postman](https://img.shields.io/badge/Postman-343A40?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-343A40?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-343A40?style=for-the-badge&logo=visual-studio-code&logoColor=white)
