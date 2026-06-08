@@ -23,6 +23,7 @@ Hey! I'm Yatish, a CSE student who loves to code and learn new things.
 ![Node.js](https://img.shields.io/badge/Node.js-343A40?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-343A40?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-343A40?style=for-the-badge&logo=mysql&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-343A40?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 🤖 AI / ML 
 ![NumPy](https://img.shields.io/badge/NumPy-343A40?style=for-the-badge&logo=numpy&logoColor=white)
