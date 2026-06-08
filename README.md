@@ -17,7 +17,10 @@ Hey! I'm Yatish, a CSE student who loves to code and learn new things.
 ![HTML5](https://img.shields.io/badge/HTML5-343A40?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-343A40?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-343A40?style=for-the-badge&logo=javascript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-343A40?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-343A40?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-343A40?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-343A40?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-343A40?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-343A40?style=for-the-badge&logo=mysql&logoColor=white)
 
