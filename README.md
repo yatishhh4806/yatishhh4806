@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hey! I'm Yatish, a CSE student who loves to code and learn new things.
+B.Tech Computer Science Engineering (AI & ML) student at Manipal University Jaipur with hands-on experience in MERN Stack
+development, Database Management and Machine Learning fundamentals. Skilled in building responsive web applications and
+developing practical solutions to real-world problems using modern technologies. Proficient in Python, JavaScript, SQL, React.js,
+Node.js and MongoDB, with a strong interest in Software Development, Artificial Intelligence and Data Analytics. Eager to apply
+technical skills, contribute to innovative projects and continuously expand knowledge through learning and hands-on experience.
 
 - 🧠 1× Hackathon Finalist - always up for a good build challenge  
 <!-- - 🎨 I design in Figma and edit videos on the side   -->
