@@ -1,54 +1,95 @@
-# 💫 About Me:
-B.Tech Computer Science Engineering (AI & ML) student at Manipal University Jaipur with hands-on experience in MERN Stack
-development, Database Management and Machine Learning fundamentals. Skilled in building responsive web applications and
-developing practical solutions to real-world problems using modern technologies. Proficient in Python, JavaScript, SQL, React.js,
-Node.js and MongoDB, with a strong interest in Software Development, Artificial Intelligence and Data Analytics. Eager to apply
-technical skills, contribute to innovative projects and continuously expand knowledge through learning and hands-on experience.
+<div align="center">
+<img
+  src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+  width="100%"
+  style="border-radius:10px; object-fit:cover;"
+/>
 
-- 🧠 1× Hackathon Finalist - always up for a good build challenge  
-<!-- - 🎨 I design in Figma and edit videos on the side   -->
-- 📌 Currently focused on backend architecture and scalable systems  
+<br/>
 
+<h1 align="center">Hi, I'm Yatish Taneja!</h1>
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yatishhh__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatish-taneja-38884a328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagy48@gmail.com) 
+<p align="center">
+<b>✦ Full Stack Developer & AI/ML Enthusiast ✦</b>
+</p>
 
-## 🚀 Tech Stack
+<p align="center">
+<a href="https://www.linkedin.com/in/yatish-taneja-38884a328/">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sagy48@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/yatishhh4806">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/yatishhh__/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+</p>
+</div>
 
-### 🧠 Languages
-![C](https://img.shields.io/badge/C-343A40?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-343A40?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-343A40?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-343A40?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-343A40?style=for-the-badge&logo=javascript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-343A40?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-343A40?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-343A40?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-343A40?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-343A40?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-343A40?style=for-the-badge&logo=mysql&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-343A40?style=for-the-badge&logo=redux&logoColor=white)
+---
 
-### 🤖 AI / ML 
-![NumPy](https://img.shields.io/badge/NumPy-343A40?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-343A40?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-343A40?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-343A40?style=for-the-badge&logo=plotly&logoColor=white)
+## 🌙 About Me
 
+I am a **B.Tech Computer Science Engineering (AI & ML)** undergraduate at **Manipal University Jaipur** with a passion for building scalable web applications and exploring Artificial Intelligence.
 
+My interests lie at the intersection of **Full Stack Development**, **Machine Learning**, and **Software Engineering**, where I enjoy transforming ideas into practical and impactful solutions.
 
-### 📦 Tools & IDEs
-![Postman](https://img.shields.io/badge/Postman-343A40?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-343A40?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-343A40?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-343A40?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 🔭 **Currently working on:** Building **StudyOS**, an all-in-one productivity and learning platform.
+- 🌱 **Currently learning:** Advanced MERN Stack, Machine Learning, and System Design.
+- 🧠 **Hackathon Experience:** 1× Hackathon Finalist.
+- ⚡ **Fun fact:** I enjoy combining elegant UI/UX design with robust backend architectures.
 
+---
 
+## 🌲 Skill Tree
 
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **AI / ML** | ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
-<!-- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
+---
 
+## 🔮 Featured Projects
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=yatishhh4806&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yatishhh4806&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **StudyOS** | An all-in-one productivity and learning platform for students. | `MERN` `Tailwind` `Firebase` |
+| **Velora** | Modern full-stack fashion e-commerce platform. | `React` `Node.js` `MongoDB` |
+| **Grocify** | Responsive multi-page grocery e-commerce website. | `React` `Tailwind` |
+| **Portfolio Website** | Interactive personal portfolio showcasing projects and skills. | `React` `GSAP` `Tailwind` |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=yatishhh4806&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yatishhh4806&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatishhh4806&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=yatishhh4806&style=flat-square&color=blueviolet)
+
+### ✨ "Building ideas into experiences, one commit at a time."
+
+</div>
