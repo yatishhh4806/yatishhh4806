@@ -68,27 +68,3 @@ My interests lie at the intersection of **Full Stack Development**, **Machine Le
 | **Grocify** | Responsive multi-page grocery e-commerce website. | `React` `Tailwind` |
 | **Portfolio Website** | Interactive personal portfolio showcasing projects and skills. | `React` `GSAP` `Tailwind` |
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yatishhh4806&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatishhh4806&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatishhh4806&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=yatishhh4806&style=flat-square&color=blueviolet)
-
-### ✨ "Building ideas into experiences, one commit at a time."
-
-</div>
