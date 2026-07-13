@@ -10,10 +10,6 @@
   <h1 align="center">Hi, I'm Yatish Taneja!</h1>
 </div>
 
-<br/>
-
-<h1 align="center">Hi, I'm Yatish Taneja!</h1>
-
 <p align="center">
 <b>✦ Full Stack Developer & AI/ML Enthusiast ✦</b>
 </p>
