@@ -63,7 +63,7 @@ My interests lie at the intersection of **Full Stack Development**, **Machine Le
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **StudyOS** | An all-in-one productivity and learning platform for students. | `MERN` `Tailwind` `Firebase` |
+| **StudyOS** | An all-in-one productivity and learning platform for students. | `MERN` `Tailwind` `OAuth` |
 | **Velora** | Modern full-stack fashion e-commerce platform. | `React` `Node.js` `MongoDB` |
 | **Grocify** | Responsive multi-page grocery e-commerce website. | `React` `Tailwind` |
 | **Portfolio Website** | Interactive personal portfolio showcasing projects and skills. | `React` `GSAP` `Tailwind` |
