@@ -39,12 +39,10 @@
 
 I am a **B.Tech Computer Science Engineering (AI & ML)** undergraduate at **Manipal University Jaipur** with a passion for building scalable web applications and exploring Artificial Intelligence.
 
-My interests lie at the intersection of **Full Stack Development**, **Machine Learning**, and **Software Engineering**, where I enjoy transforming ideas into practical and impactful solutions.
+My interests lie at the intersection of **Full Stack Development**, **App Development**, and **Software Engineering**, where I enjoy transforming ideas into practical and impactful solutions.
 
 - 🔭 **Currently working on:** Building **StudyOS**, an all-in-one productivity and learning platform.
 - 🌱 **Currently learning:** Advanced MERN Stack, App Dev and System Design.
-- 🧠 **Hackathon Experience:** 1× Hackathon Finalist.
-- ⚡ **Fun fact:** I enjoy combining elegant UI/UX design with robust backend architectures.
 
 ---
 
